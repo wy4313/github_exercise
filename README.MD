@@ -1,5 +1,6 @@
 # this is a repo to exercise git and github.
 
-* 1 use git config to configure usr name and email for simple repository
-* 2 modify readme file for markdown `test`
-* 3 test git commit --amend. aftor amend use `-f` option when u push
+*  use git config to configure usr name and email for simple repository
+*  modify readme file for markdown `test`
+*  test git commit --amend. after amend use `-f` option when u push
+*  push a new branch to github `git push origin branchname`
