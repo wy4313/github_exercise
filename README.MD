@@ -1,4 +1,5 @@
 # this is a repo to exercise git and github.
+## [repository link](https://github.com/wy4313/github_exercise)
 
 *  use git config to configure usr name and email for simple repository
 *  modify readme file for markdown `test`
