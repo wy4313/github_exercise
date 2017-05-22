@@ -5,18 +5,18 @@
 2.  modify readme file for markdown `test`
 3.  test git commit --amend. after amend use `-f` option when u push
 4.  push a new branch to github `git push origin branchname`
-5.  include a code block
-    `
+5.  include a code block    
+```
     #include<stdio.h>
     int main(int argc, char* argv[]){
         pritntf("hello github!");
         return 0;
     }
-    `
+```
 6. include a reference
     > #include<stdio.h>
-    > int main(int argc, char* argv[]){
-    >     pritntf("hello github!");
-    >     return 0;
-    > }
-    
+      int main(int argc, char* argv[]){
+         pritntf("hello github!");
+         return 0;
+      }
+    >
