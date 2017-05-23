@@ -22,6 +22,6 @@ ithxub.com/wy4323/github_exercise)
     }
     >
 7. add option in markdown
-    - [] feature #1
+    - [ ] feature #1
     - [x] feature #2
     - [x] fixbug #3
