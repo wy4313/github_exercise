@@ -1,5 +1,6 @@
 # This is a repo to exercise git and github.
-[repository link](https://github.com/wy4313/github_exercise)
+[repository link](https://github.com/wy431
+ithxub.com/wy4323/github_exercise)
 
 1.  use git config to configure usr name and email for simple repository
 2.  modify readme file for markdown `test`
@@ -20,3 +21,7 @@
          return 0;  
     }
     >
+7. add option in markdown
+    - [] feature #1
+    - [x] feature #2
+    - [x] fixbug #3
